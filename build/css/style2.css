@@ -1,0 +1,124 @@
+#icon:hover{
+    -webkit-transform: scale(1.2)!important;
+    transform: scale(1.2)!important;
+}
+
+
+a{
+    text-decoration: none!important;
+}
+
+.btn_ini{
+    background-color: #141414 !important;
+    color:#014f86 !important;
+    border-color: #141414!important;
+}
+
+#fnd_ini{
+    background-color: #141414!important;
+    color:#014f86 !important;
+}
+
+.btn_ini:hover{
+    background-color:#012a4a !important;
+    color:#468faf !important;
+    cursor:pointer !important;
+}
+
+.btn_ini::after{
+    background-color:#012a4a !important;
+    color:#468faf !important;
+    cursor:pointer !important;
+}
+
+.btn_ini::before{
+    background-color:#012a4a !important;
+    color:#468faf !important;
+    cursor:pointer !important;
+}
+
+.btn-check:focus{
+    background-color:#012a4a !important;
+    color:#468faf !important;
+    cursor:pointer !important;
+}
+
+#tx_ini{
+    color:#014f86 !important;  
+}
+
+#txt_ini:hover{
+    background-color:#012a4a !important;
+    color:#468faf !important;
+    cursor:pointer !important;
+}
+
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    }
+    
+    @media (min-width: 900px) {
+    .h-custom-2 {
+    height: 90%;
+    }
+    }
+#fnd_log{
+    background-color: #012a4a !important;
+}
+
+#c_log{
+    background-color:#014f86 !important;
+}
+
+.btn_log{
+    background-color: #014f86 !important;
+    color: #141414!important;
+    border-color: #141414!important;
+}
+
+.btn_log:hover{
+    background-color:#a9d6e5!important;
+    color:#468faf !important;
+    cursor:pointer !important; 
+}
+
+.rg_log{
+    color: #014f86 !important;
+}
+
+.rg_log:hover{
+    color: #a9d6e5 !important;
+}
+
+.img_rg{
+    height: 50% !important;
+}
+
+#vl_rg:hover{
+    color: #014f86 !important;
+    background-color: #141414 !important;
+}
+
+#nombre_usuario{
+    color: #141414 !important;
+}
+
+#nombre_usuario:hover{
+    color: #a9d6e5;
+}
+
+#fnd_inm{
+    background-color: #012a4a !important; 
+}
+
+#titulo_card{
+    color: #141414 !important;
+}
+
+.mnsj{
+    background-color:#141414 !important;
+}
